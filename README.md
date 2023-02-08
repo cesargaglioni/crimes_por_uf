@@ -9,7 +9,6 @@ O projeto realiza as seguintes análises:
 - Agrupamento de dados por UF e Data (Em andamento)
 - Mapa do Brasil mostrando os estados com mais ocorrências (Em andamento)
 
-![grafico.png]
 
 # Contribuição
 Contribuições são sempre bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests com melhorias para o projeto!
