@@ -5,7 +5,7 @@ Este projeto tem como objetivo realizar uma análise de dados de crimes no Brasi
 
 O projeto realiza as seguintes análises:
 
-- Gráfico de barras para exibir o número de ocorrências por Tipo_crime
+- Gráfico de barras para exibir o número de ocorrências por Tipo_crime (Em andamento)
 - Agrupamento de dados por UF e Data (Em andamento)
 - Mapa do Brasil mostrando os estados com mais ocorrências (Em andamento)
 
