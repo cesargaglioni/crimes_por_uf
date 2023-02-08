@@ -12,4 +12,4 @@ O projeto realiza as seguintes análises:
 ![grafico.png]
 
 # Contribuição
-Contribuições são sempre bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests com melhorias para o projeto.
+Contribuições são sempre bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests com melhorias para o projeto!
